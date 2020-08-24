@@ -1,3 +1,16 @@
-# social-media-functions(work in progress!)
+# Back-end social media(work in progress!)
 
-Back-end skeleton(node.js, Postman, RESTful API, express) of a full stack app. The app will eventually be a social media app, and the front end will be built with React
+I’m building a full-stack social media app.
+As of now, I am completing the back end side of it. The front-end will use React
+
+I am practicing: 
+- Firebase Functions
+- Firebase Auth
+- Firebase Database
+- Node.js
+- Express
+- Postman
+- REST APIs
+- React.js
+- Material UI
+
