@@ -1,7 +1,8 @@
 # Back-end social media(work in progress!)
 
-I’m building a full-stack social media app.
-As of now, I am completing the back end side of it. The front-end will use React
+This is the back-end side of a project started with other volunteers. We are building a social-media style channel of communication for around 4000 
+people to use.
+The front-end side will utilise React.js to complete the application.
 
 I am practicing: 
 - Firebase Functions
